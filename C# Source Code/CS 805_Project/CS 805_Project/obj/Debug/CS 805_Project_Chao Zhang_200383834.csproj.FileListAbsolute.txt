@@ -1,0 +1,10 @@
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\bin\Debug\CS 805_Project.exe.config
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\bin\Debug\CS 805_Project.exe
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\bin\Debug\CS 805_Project.pdb
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\obj\Debug\CS 805_Project_Chao Zhang_200383834.csprojAssemblyReference.cache
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\obj\Debug\CS_805_Project.Form.resources
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\obj\Debug\CS_805_Project.Properties.Resources.resources
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\obj\Debug\CS 805_Project_Chao Zhang_200383834.csproj.GenerateResource.cache
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\obj\Debug\CS 805_Project_Chao Zhang_200383834.csproj.CoreCompileInputs.cache
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\obj\Debug\CS 805_Project.exe
+C:\Users\CHAO\Desktop\c sharp\CS 805_Project\CS 805_Project\obj\Debug\CS 805_Project.pdb
