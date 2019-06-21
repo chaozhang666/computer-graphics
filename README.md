@@ -1,4 +1,4 @@
-# ComputerGraphics Application - Volume Rendering
+# Computer Graphics Application - Volume Rendering
 
 ## UI
 
