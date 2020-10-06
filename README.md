@@ -1,6 +1,6 @@
 # Computer Graphics Application - Volume Rendering
 
-## UI
+## C# WPF
 
 ![alt text](https://github.com/zzzchaozzz/ComputerGraphics/blob/master/ReadMe/1.png)
 
